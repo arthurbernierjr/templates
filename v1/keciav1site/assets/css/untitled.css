@@ -1,0 +1,65 @@
+.portfolio-block.block-intro .avatar {
+  width:350px;
+  height:350px;
+    border-radius:100px;
+}
+
+.navbar.navbar-dark.navbar-expand-lg.fixed-top.bg-white.portfolio-navbar.gradient {
+  background:linear-gradient(20deg,#000000,#ff0000);
+  color:goldenrod;
+}
+
+.portfolio-block.website.gradient {
+  background:linear-gradient(20deg,#000000,#ff0000);
+}
+
+.img-control{
+    
+    width:100%;
+    padding: 5%;
+    margin:auto;
+    background-color: white;
+ 
+}
+.photo-gallery {
+  color:#313437;
+  background-color:#fff;
+}
+
+.photo-gallery p {
+  color:#7d8285;
+}
+
+.photo-gallery h2 {
+  font-weight:bold;
+  margin-bottom:40px;
+  padding-top:40px;
+  color:inherit;
+}
+
+@media (max-width:767px) {
+  .photo-gallery h2 {
+    margin-bottom:25px;
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+
+.photo-gallery .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom:0;
+}
+
+.photo-gallery .photos {
+  padding-bottom:20px;
+}
+
+.photo-gallery .item {
+  padding-bottom:30px;
+}
+
